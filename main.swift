@@ -25,3 +25,7 @@ for i in 0 ..< strings.count {
         }
     }
 }   
+
+for str in strings {
+    print(str)
+}
